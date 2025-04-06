@@ -1,0 +1,27 @@
+"paramters": {
+    "location" {
+        "value": "East US"
+    },
+    "staccountname": {
+        "value": "stdemo"
+    },
+    "kindvalue": {
+        "value": "BlobStorage"
+    },
+    "skuproperties":{
+        "value": 
+        {
+            "name": "Standard_GRS"
+        }
+    },
+    "stproperties":{
+        "value":
+        {
+            "accessTier": "Cool"
+        }
+    }
+
+
+}
+
+
