@@ -2,6 +2,7 @@
 @allowed([
   'East US'
   'East US2'
+  'West-US'
 ]
 )
 
